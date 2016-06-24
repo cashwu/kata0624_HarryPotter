@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "kata0624_HarryPotter", "kata0624_HarryPotter\kata0624_HarryPotter.csproj", "{44D7021F-C142-4A13-9B57-5B0F67710386}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44D7021F-C142-4A13-9B57-5B0F67710386}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44D7021F-C142-4A13-9B57-5B0F67710386}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{44D7021F-C142-4A13-9B57-5B0F67710386}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{44D7021F-C142-4A13-9B57-5B0F67710386}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(CodealikeProperties) = postSolution
+		SolutionGuid = 3c86d245-0a06-4fdf-bb14-e69384e4afda
+	EndGlobalSection
+EndGlobal
